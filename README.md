@@ -2,7 +2,6 @@
 
 - React
 - Typescript
-- Antd
 - Web3
 
 # INSTALL
